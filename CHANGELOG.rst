@@ -10,6 +10,11 @@ This document describes changes between each past release.
 
 - Support for filtering records based on a text search (#791)
 
+**Bug fixes**
+
+- Fix concurrent writes in the memory backend (fixes #759)
+
+
 4.1.1 (2016-08-29)
 ------------------
 
